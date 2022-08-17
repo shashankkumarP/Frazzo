@@ -26,11 +26,11 @@ We have use Google map api for searching current location or manually entered lo
 
 ## Contributing
 
-Shashank kumar : homepages Page and Wallet Page.
+<li>Shashank kumar : homepages Page and Wallet Page.</li>
 
-Alok kumar das : Product Cateogory, Log-in and Sign-up page.
+<li>Alok kumar das : Product Cateogory, Log-in and Sign-up page.</li>
 
-S Vijayprashad : Checkout and Payment detail page
+<li>S Vijayprashad : Checkout and Payment detail page</li>
 
 
 
