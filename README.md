@@ -10,18 +10,31 @@ Frazzo is a Largest growing  E-commerce website where we can purchase groceries,
   website. We have used Json-server for backend purpose and axios for calling api.
   
    <li>We have use Google map api for fetching current location or manually entered location.</li>
-  
-    <h4>Technology used.</h4>
+   
+<img  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfMAc3dqXnn3rH4RoGfOMtTW2Z4-dK_0kvg&usqp=CAU' width='200px' height='200px' /><img  src='https://couponswala.com/blog/wp-content/uploads/2022/06/fraazo.png' width='200px' height='200px' />
+<img  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfMAc3dqXnn3rH4RoGfOMtTW2Z4-dK_0kvg&usqp=CAU' width='200px' height='200px' />' 
 
-    <img src='https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg' width='80px' height='70px' />   <img width='80px' height='70px' src='http://code-institute-org.github.io/Full-Stack-Web-Developer-Stream-0/assets/javascript.png' width='20px' height='20px' />  <img width='80px' height='70px' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4ISVcXgykdMnPuRPFdIhH4cJpVxhbd6i0w&usqp=CAU' width='20px' height='20px' />    <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQvo7DiCYq0KDfGNiQFlNiaozrX5Ze03TbQ&usqp=CAU' width='80px' height='70px' />
+## Technology Used.
+
+![javascript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%2361DAFB) 
+![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=HTML&logoColor=%2361DAFB)
+![CSS](https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=CSS&logoColor=%2361DAFB) 
+
 ## API Reference
 We have use Google map api for searching current location or manually entered location
 
-## Authors
+## 🔗 Team Members
+    1. Shashank kumar - Leader
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shashankkumarportfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kumar-83008122b/)
 
-- shashank kumar
-- S Vijayprashad
-- Alok kumar Das
+    2. Alok Kumar.
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
+     3. S Vijayprashad
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 
 ## Contributing
@@ -43,6 +56,5 @@ We have use Google map api for searching current location or manually entered lo
 
 
 
-
-
+## Feedback
 If you have any feedback, please reach out to us at mail  <a href='https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Hi+There&to=madhav131ex@gmail.com&body=body+goes+here' > click-here</a>
