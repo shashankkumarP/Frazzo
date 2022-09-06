@@ -11,10 +11,30 @@ Frazzo is a Largest growing  E-commerce website where we can purchase groceries,
   
    <li>We have use Google map api for fetching current location or manually entered location.</li>
    
+## Images of Some Funcnality
+
+
+
+
 
 
 <h3 align="center"  >Slider using Html,Css and Javascript</h3>
+
 ![frazzo1](https://user-images.githubusercontent.com/67480861/188608283-f5f7cbf9-bcf1-4759-bb13-8fa32faf643b.png)
+
+<h3 align="center" >Wallet Section</h3>
+ 
+ ![frazzo2](https://user-images.githubusercontent.com/67480861/188609383-99ffa436-c162-453c-8ce9-bbb785f5da73.PNG)
+ 
+ <h3 align="center" >Live Location as well as Manual Location</h3>
+ 
+ ![frazzo3](https://user-images.githubusercontent.com/67480861/188613478-67770ae5-12ad-41b5-a1c9-8c911a7eae9f.png)
+ 
+ <h3 align="center" >Select From Diffrent Categeory</h3>
+ 
+ ![frazzo4](https://user-images.githubusercontent.com/67480861/188613746-004c01af-139a-4003-803f-c378777d9a99.PNG)
+
+
 
 
 ## Technology Used.
