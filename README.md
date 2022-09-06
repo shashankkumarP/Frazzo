@@ -11,8 +11,11 @@ Frazzo is a Largest growing  E-commerce website where we can purchase groceries,
   
    <li>We have use Google map api for fetching current location or manually entered location.</li>
    
-<img  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfMAc3dqXnn3rH4RoGfOMtTW2Z4-dK_0kvg&usqp=CAU' width='200px' height='200px' /><img  src='https://couponswala.com/blog/wp-content/uploads/2022/06/fraazo.png' width='200px' height='200px' />
-<img  src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjfMAc3dqXnn3rH4RoGfOMtTW2Z4-dK_0kvg&usqp=CAU' width='200px' height='200px' />' 
+
+
+<h3 align="center"  >Slider using Html,Css and Javascript</h3>
+![frazzo1](https://user-images.githubusercontent.com/67480861/188608283-f5f7cbf9-bcf1-4759-bb13-8fa32faf643b.png)
+
 
 ## Technology Used.
 
